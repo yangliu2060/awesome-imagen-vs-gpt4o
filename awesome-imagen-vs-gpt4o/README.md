@@ -129,7 +129,7 @@
 
 | GPT-4o | Google AI Studio |
 |:------:|:----------------:|
-| ![GPT-4o](cases/001/gpt4o.png) | ![Google](cases/001/google.png) |
+| <img src="cases/001/gpt4o.png" width="400"> | <img src="cases/001/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -145,7 +145,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1908238003169903060)
 
-<img src="cases/002/google.png" width="400" alt="3D Q版人物立体相框">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/002/gpt4o.png" width="400"> | <img src="cases/002/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -161,7 +163,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1905251524248248650)
 
-<img src="cases/003/google.png" width="400" alt="复古宣传海报">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/003/gpt4o.png" width="400"> | <img src="cases/003/google.jpg" width="400"> |
 
 **提示词**
 ```
