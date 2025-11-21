@@ -179,7 +179,9 @@
 
 **作者**: [@balconychy](https://x.com/balconychy/status/1909418699150237917)
 
-<img src="cases/004/google.png" width="400" alt="3D Q版中式婚礼图">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/004/gpt4o.png" width="400"> | <img src="cases/004/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -195,7 +197,9 @@
 
 **作者**: [@AnimeAI](https://animeai.online/#demo-gallery)
 
-<img src="cases/005/google.png" width="400" alt="吉卜力风格">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/005/gpt4o.png" width="400"> | <img src="cases/005/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -211,7 +215,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1908910838636765204)
 
-<img src="cases/006/google.png" width="400" alt="角色穿越传送门">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/006/gpt4o.png" width="400"> | <img src="cases/006/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -227,7 +233,9 @@
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
 
-<img src="cases/007/google.png" width="400" alt="个性化房间设计">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/007/gpt4o.png" width="400"> | <img src="cases/007/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -241,7 +249,9 @@
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
-<img src="cases/008/google.png" width="400" alt="乐高收藏品">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/008/gpt4o.png" width="400"> | <img src="cases/008/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -265,7 +275,9 @@
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
-<img src="cases/009/google.png" width="400" alt="极简未来主义海报">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/009/gpt4o.png" width="400"> | <img src="cases/009/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -291,7 +303,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1910514811756065159)
 
-<img src="cases/010/google.png" width="400" alt="讽刺漫画生成">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/010/gpt4o.png" width="400"> | <img src="cases/010/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -305,7 +319,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1904978767090524372)
 
-<img src="cases/011/google.png" width="400" alt="PS2 游戏封面 (GTA x Shrek)">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/011/gpt4o.png" width="400"> | <img src="cases/011/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -319,7 +335,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1909332895115714835)
 
-<img src="cases/012/google.png" width="400" alt="3D 情侣珠宝盒摆件">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/012/gpt4o.png" width="400"> | <img src="cases/012/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -338,7 +356,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1908194518345678865)
 
-<img src="cases/013/google.png" width="400" alt="3D Q版风格">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/013/gpt4o.png" width="400"> | <img src="cases/013/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -354,7 +374,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1909047547563213145)
 
-<img src="cases/014/google.png" width="400" alt="《海贼王》主题手办制作">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/014/gpt4o.png" width="400"> | <img src="cases/014/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -370,7 +392,9 @@
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
 
-<img src="cases/015/google.png" width="400" alt="讽刺海报生成">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/015/gpt4o.png" width="400"> | <img src="cases/015/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -384,7 +408,9 @@
 
 **作者**: [@Alittlefatwhale](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
-<img src="cases/016/google.png" width="400" alt="二次元风格徽章">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/016/gpt4o.png" width="400"> | <img src="cases/016/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -403,7 +429,9 @@
 
 **作者**: [@Gdgtify](https://x.com/Gdgtify/status/1925176250626159053)
 
-<img src="cases/017/google.png" width="400" alt="复古CRT电脑启动屏幕">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/017/gpt4o.png" width="400"> | <img src="cases/017/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -417,7 +445,9 @@
 
 **作者**: [@AnimeAI](https://animeai.online/#demo-gallery)
 
-<img src="cases/018/google.png" width="400" alt="皮克斯3D风格">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/018/gpt4o.png" width="400"> | <img src="cases/018/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -433,7 +463,9 @@
 
 **作者**: [@TheRelianceAI](https://x.com/TheRelianceAI/status/1925223613055017251)
 
-<img src="cases/019/google.png" width="400" alt="玩具盒中的国家立体模型">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/019/gpt4o.png" width="400"> | <img src="cases/019/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -447,7 +479,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1920994118580183316)
 
-<img src="cases/020/google.png" width="400" alt="手办与真人同框">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/020/gpt4o.png" width="400"> | <img src="cases/020/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -461,7 +495,9 @@
 
 **作者**: [@leon_yuan2001](https://x.com/leon_yuan2001/status/1923712069209293014)
 
-<img src="cases/021/google.png" width="400" alt="Q版角色表情包">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/021/gpt4o.png" width="400"> | <img src="cases/021/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -486,7 +522,9 @@
 
 **作者**: [@balconychy](https://x.com/balconychy/status/1905507936526627078)
 
-<img src="cases/022/google.png" width="400" alt="小红书封面">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/022/gpt4o.png" width="400"> | <img src="cases/022/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -517,7 +555,9 @@
 
 **作者**: [@balconychy](https://x.com/balconychy/status/1909916265067557299)
 
-<img src="cases/023/google.png" width="400" alt="《泰坦尼克号》模仿">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/023/gpt4o.png" width="400"> | <img src="cases/023/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -537,7 +577,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1909047283485671924)
 
-<img src="cases/024/google.png" width="400" alt="Funko Pop 公仔制作">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/024/gpt4o.png" width="400"> | <img src="cases/024/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -553,7 +595,9 @@
 
 **作者**: [@0xdlk](https://x.com/0xdlk/status/1906843247432929642)
 
-<img src="cases/025/google.png" width="400" alt="极简主义 3D 插画">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/025/gpt4o.png" width="400"> | <img src="cases/025/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -604,7 +648,9 @@
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
-<img src="cases/026/google.png" width="400" alt="名画人物麦片广告">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/026/gpt4o.png" width="400"> | <img src="cases/026/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -620,7 +666,9 @@
 
 **作者**: [@dotey](https://x.com/dotey/status/1909800530739679488)
 
-<img src="cases/027/google.png" width="400" alt="Q 版表情包制作">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/027/gpt4o.png" width="400"> | <img src="cases/027/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -644,7 +692,9 @@ Aspect ratio: 9:16
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
-<img src="cases/028/google.png" width="400" alt="扁平贴纸设计">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/028/gpt4o.png" width="400"> | <img src="cases/028/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -660,7 +710,9 @@ Aspect ratio: 9:16
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
-<img src="cases/029/google.png" width="400" alt="名画人物 OOTD">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/029/gpt4o.png" width="400"> | <img src="cases/029/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -681,7 +733,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1905020833451348283)
 
-<img src="cases/030/google.png" width="400" alt="35mm 胶片风格飞岛">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/030/gpt4o.png" width="400"> | <img src="cases/030/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -695,7 +749,9 @@ Aspect ratio: 9:16
 
 **作者**: [@richardchang](https://x.com/richardchang/status/1909086122959139312)
 
-<img src="cases/031/google.png" width="400" alt="动漫贴纸集合">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/031/gpt4o.png" width="400"> | <img src="cases/031/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -709,7 +765,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1923264349050675329)
 
-<img src="cases/032/google.png" width="400" alt="折叠式纸雕立体绘本">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/032/gpt4o.png" width="400"> | <img src="cases/032/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -723,7 +781,9 @@ Aspect ratio: 9:16
 
 **作者**: [@balconychy](https://x.com/balconychy/status/1909426314643222595)
 
-<img src="cases/033/google.png" width="400" alt="全家福婚纱照">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/033/gpt4o.png" width="400"> | <img src="cases/033/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -739,7 +799,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1907903480678985784)
 
-<img src="cases/034/google.png" width="400" alt="手绘信息图卡片">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/034/gpt4o.png" width="400"> | <img src="cases/034/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -763,7 +825,9 @@ Aspect ratio: 9:16
 
 **作者**: [@gizakdag]()
 
-<img src="cases/035/google.png" width="400" alt="毛茸茸南瓜灯">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/035/gpt4o.png" width="400"> | <img src="cases/035/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -777,7 +841,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1907131027253772399)
 
-<img src="cases/036/google.png" width="400" alt="极简主义 3D 插画 (Markdown 格式)">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/036/gpt4o.png" width="400"> | <img src="cases/036/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -829,7 +895,9 @@ Aspect ratio: 9:16
 
 **作者**: [@aziz4ai](https://x.com/aziz4ai/status/1925301120252924356)
 
-<img src="cases/037/google.png" width="400" alt="柔和风格3D广告">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/037/gpt4o.png" width="400"> | <img src="cases/037/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -843,7 +911,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1907870919852179850)
 
-<img src="cases/038/google.png" width="400" alt="手绘信息图卡片">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/038/gpt4o.png" width="400"> | <img src="cases/038/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -863,7 +933,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1905103477879267823)
 
-<img src="cases/039/google.png" width="400" alt="奇幻卡通插画">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/039/gpt4o.png" width="400"> | <img src="cases/039/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -877,7 +949,9 @@ Aspect ratio: 9:16
 
 **作者**: [@hellokaton](https://x.com/hellokaton/status/1910900979194646959)
 
-<img src="cases/040/google.png" width="400" alt="日系双格漫画 (少女总统红温了)">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/040/gpt4o.png" width="400"> | <img src="cases/040/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -911,7 +985,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1911609122547449886)
 
-<img src="cases/041/google.png" width="400" alt="微型立体场景 (孙悟空三打白骨精)">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/041/gpt4o.png" width="400"> | <img src="cases/041/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -925,7 +1001,9 @@ Aspect ratio: 9:16
 
 **作者**: [@balconychy](https://x.com/balconychy/status/1909908568129655248)
 
-<img src="cases/042/google.png" width="400" alt="3D Q版情侣水晶球">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/042/gpt4o.png" width="400"> | <img src="cases/042/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -941,7 +1019,9 @@ Aspect ratio: 9:16
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
-<img src="cases/043/google.png" width="400" alt="Q版可爱俄罗斯套娃 (戴珍珠耳环的少女)">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/043/gpt4o.png" width="400"> | <img src="cases/043/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -957,7 +1037,9 @@ Aspect ratio: 9:16
 
 **作者**: [@berryxia_ai](https://x.com/berryxia_ai/status/1911334046724165905)
 
-<img src="cases/044/google.png" width="400" alt="RPG 风格角色卡片制作">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/044/gpt4o.png" width="400"> | <img src="cases/044/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -980,7 +1062,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1911988003729203648)
 
-<img src="cases/045/google.png" width="400" alt="3D Q版大学拟人化形象">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/045/gpt4o.png" width="400"> | <img src="cases/045/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -994,7 +1078,9 @@ Aspect ratio: 9:16
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 
-<img src="cases/046/google.png" width="400" alt="快乐胶囊制作">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/046/gpt4o.png" width="400"> | <img src="cases/046/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1011,7 +1097,9 @@ Aspect ratio: 9:16
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1911368319212408926)
 
-<img src="cases/047/google.png" width="400" alt="键盘ESC 键帽微型立体模型">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/047/gpt4o.png" width="400"> | <img src="cases/047/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1029,7 +1117,9 @@ Aspect ratio: 9:16
 
 **作者**: [@BrettFromDJ]()
 
-<img src="cases/048/google.png" width="400" alt="体素风格 3D 图标转换">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/048/gpt4o.png" width="400"> | <img src="cases/048/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1048,7 +1138,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1912536019905233194)
 
-<img src="cases/049/google.png" width="400" alt="时尚杂志封面风格">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/049/gpt4o.png" width="400"> | <img src="cases/049/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1062,7 +1154,9 @@ Aspect ratio: 9:16
 
 **作者**: [@op7418]()
 
-<img src="cases/050/google.png" width="400" alt="物理破坏效果卡片 (劳拉)">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/050/gpt4o.png" width="400"> | <img src="cases/050/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1076,7 +1170,9 @@ Aspect ratio: 9:16
 
 **作者**: [@M_w14_]()
 
-<img src="cases/051/google.png" width="400" alt="护照入境印章">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/051/gpt4o.png" width="400"> | <img src="cases/051/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1090,7 +1186,9 @@ Aspect ratio: 9:16
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1912521263085482464)
 
-<img src="cases/052/google.png" width="400" alt="纸艺风格 Emoji 图标">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/052/gpt4o.png" width="400"> | <img src="cases/052/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1104,7 +1202,9 @@ Aspect ratio: 9:16
 
 **作者**: [@gizakdag](https://x.com/gizakdag/status/1912858535643197927)
 
-<img src="cases/053/google.png" width="400" alt="Emoji 充气感靠垫">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/053/gpt4o.png" width="400"> | <img src="cases/053/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1118,7 +1218,9 @@ Aspect ratio: 9:16
 
 **作者**: [@jiamimaodashu](https://x.com/jiamimaodashu/status/1912653073190879410)
 
-<img src="cases/054/google.png" width="400" alt="“极其平凡”的iPhone自拍">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/054/gpt4o.png" width="400"> | <img src="cases/054/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1132,7 +1234,9 @@ Aspect ratio: 9:16
 
 **作者**: [@azed_ai](https://x.com/azed_ai/status/1923739813414568075)
 
-<img src="cases/055/google.png" width="400" alt="创意绿植花盆">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/055/gpt4o.png" width="400"> | <img src="cases/055/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1146,7 +1250,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1913759515700285569)
 
-<img src="cases/056/google.png" width="400" alt="迷你 3D 建筑">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/056/gpt4o.png" width="400"> | <img src="cases/056/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1160,7 +1266,9 @@ Aspect ratio: 9:16
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1913654508330058064)
 
-<img src="cases/057/google.png" width="400" alt="8位像素图标">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/057/gpt4o.png" width="400"> | <img src="cases/057/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1174,7 +1282,9 @@ Aspect ratio: 9:16
 
 **作者**: [@umesh_ai](https://x.com/umesh_ai/status/1913628737872027805)
 
-<img src="cases/058/google.png" width="400" alt="云彩艺术">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/058/gpt4o.png" width="400"> | <img src="cases/058/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1188,7 +1298,9 @@ Aspect ratio: 9:16
 
 **作者**: [@michaelrabone](https://x.com/michaelrabone/status/1913865394139316291)
 
-<img src="cases/059/google.png" width="400" alt="彩色矢量艺术海报">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/059/gpt4o.png" width="400"> | <img src="cases/059/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1202,7 +1314,9 @@ Aspect ratio: 9:16
 
 **作者**: [@gizakdag](https://x.com/gizakdag/status/1913925062568144924)
 
-<img src="cases/060/google.png" width="400" alt="Emoji 簇绒地毯">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/060/gpt4o.png" width="400"> | <img src="cases/060/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1216,7 +1330,9 @@ Aspect ratio: 9:16
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1914299716394778713)
 
-<img src="cases/061/google.png" width="400" alt="虚构推文截图 (爱因斯坦)">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/061/gpt4o.png" width="400"> | <img src="cases/061/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1230,7 +1346,9 @@ Aspect ratio: 9:16
 
 **作者**: [@gnrlyxyz](https://x.com/gnrlyxyz/status/1914303110853583302)
 
-<img src="cases/062/google.png" width="400" alt="可爱珐琅别针">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/062/gpt4o.png" width="400"> | <img src="cases/062/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1246,7 +1364,9 @@ Aspect ratio: 9:16
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
 
-<img src="cases/063/google.png" width="400" alt="Emoji 奶油雪糕">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/063/gpt4o.png" width="400"> | <img src="cases/063/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1260,7 +1380,9 @@ Aspect ratio: 9:16
 
 **作者**: [@f-is-h](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
 
-<img src="cases/064/google.png" width="400" alt="蒸汽朋克机械鱼">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/064/gpt4o.png" width="400"> | <img src="cases/064/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1280,7 +1402,9 @@ Aspect ratio: 9:16
 
 **作者**: [@madpencil_](https://x.com/madpencil_/status/1920037538372128998)
 
-<img src="cases/065/google.png" width="400" alt="奇幻水下场景冰棒">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/065/gpt4o.png" width="400"> | <img src="cases/065/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1294,7 +1418,9 @@ Aspect ratio: 9:16
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
 
-<img src="cases/066/google.png" width="400" alt="创意丝绸宇宙">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/066/gpt4o.png" width="400"> | <img src="cases/066/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1308,7 +1434,9 @@ Aspect ratio: 9:16
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
 
-<img src="cases/067/google.png" width="400" alt="超写实3D游戏">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/067/gpt4o.png" width="400"> | <img src="cases/067/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1326,7 +1454,9 @@ Aspect ratio: 9:16
 
 **作者**: [@hewarsaber](https://x.com/hewarsaber/status/1912933875166171515)
 
-<img src="cases/068/google.png" width="400" alt="未来主义 Logo 交易卡">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/068/gpt4o.png" width="400"> | <img src="cases/068/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1365,7 +1495,9 @@ Aspect ratio: 9:16
 
 **作者**: [@umesh_ai](https://x.com/umesh_ai/status/1915417277953962048)
 
-<img src="cases/069/google.png" width="400" alt="剪影艺术">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/069/gpt4o.png" width="400"> | <img src="cases/069/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1379,7 +1511,9 @@ Aspect ratio: 9:16
 
 **作者**: [@Anima_Labs](https://x.com/Anima_Labs/status/1915044265895379166)
 
-<img src="cases/070/google.png" width="400" alt="原创宝可梦生成">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/070/gpt4o.png" width="400"> | <img src="cases/070/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1398,7 +1532,9 @@ Aspect ratio: 9:16
 
 **作者**: [@terry623]()
 
-<img src="cases/071/google.png" width="400" alt="迷你 Cyberpunk 傾斜移軸景觀">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/071/gpt4o.png" width="400"> | <img src="cases/071/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1412,7 +1548,9 @@ Aspect ratio: 9:16
 
 **作者**: [@azed_ai](https://x.com/azed_ai/status/1915770501705925106)
 
-<img src="cases/072/google.png" width="400" alt="金色吊坠项链">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/072/gpt4o.png" width="400"> | <img src="cases/072/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1428,7 +1566,9 @@ Aspect ratio: 9:16
 
 **作者**: [@azed_ai](https://x.com/azed_ai/status/1916521742052503804)
 
-<img src="cases/073/google.png" width="400" alt="定制Q版钥匙串">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/073/gpt4o.png" width="400"> | <img src="cases/073/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1444,7 +1584,9 @@ Aspect ratio: 9:16
 
 **作者**: [@umesh_ai](https://x.com/umesh_ai/status/1916517976414495161)
 
-<img src="cases/074/google.png" width="400" alt="Logo 形状创意书架">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/074/gpt4o.png" width="400"> | <img src="cases/074/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1458,7 +1600,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1917042797506662560)
 
-<img src="cases/075/google.png" width="400" alt="社交媒体相框融合">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/075/gpt4o.png" width="400"> | <img src="cases/075/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1474,7 +1618,9 @@ Aspect ratio: 9:16
 
 **作者**: [@photis (Sora](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
-<img src="cases/076/google.png" width="400" alt="怀旧动漫风格电影海报">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/076/gpt4o.png" width="400"> | <img src="cases/076/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1489,7 +1635,9 @@ Aspect ratio: 9:16
 
 **作者**: [@dotey](https://x.com/dotey/status/1916530529324699858)
 
-<img src="cases/077/google.png" width="400" alt="水晶球故事场景">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/077/gpt4o.png" width="400"> | <img src="cases/077/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1503,7 +1651,9 @@ Aspect ratio: 9:16
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1917631056980721743)
 
-<img src="cases/078/google.png" width="400" alt="玻璃材质重塑">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/078/gpt4o.png" width="400"> | <img src="cases/078/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1535,7 +1685,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@dotey](https://x.com/dotey/status/1917713810346872902)
 
-<img src="cases/079/google.png" width="400" alt="乐高城市景观">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/079/gpt4o.png" width="400"> | <img src="cases/079/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1549,7 +1701,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@umesh_ai]()
 
-<img src="cases/080/google.png" width="400" alt="代码风格名片">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/080/gpt4o.png" width="400"> | <img src="cases/080/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1570,7 +1724,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@azed_ai](https://x.com/azed_ai/status/1917948899098243407)
 
-<img src="cases/081/google.png" width="400" alt="半透明玻璃质感变换">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/081/gpt4o.png" width="400"> | <img src="cases/081/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1586,7 +1742,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@dotey](https://x.com/dotey/status/1917988595228438771)
 
-<img src="cases/082/google.png" width="400" alt="特色城市天气预报">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/082/gpt4o.png" width="400"> | <img src="cases/082/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1600,7 +1758,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@umesh_ai](https://x.com/umesh_ai/status/1914644426334314545)
 
-<img src="cases/083/google.png" width="400" alt="发光线条解剖图">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/083/gpt4o.png" width="400"> | <img src="cases/083/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1614,7 +1774,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
 
-<img src="cases/084/google.png" width="400" alt="动物硅胶腕托">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/084/gpt4o.png" width="400"> | <img src="cases/084/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1628,7 +1790,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@umesh_ai](https://x.com/umesh_ai/status/1917444534239191544)
 
-<img src="cases/085/google.png" width="400" alt="超现实交互场景">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/085/gpt4o.png" width="400"> | <img src="cases/085/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1642,7 +1806,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@rezzycheck (Sora](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
 
-<img src="cases/086/google.png" width="400" alt="双重曝光">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/086/gpt4o.png" width="400"> | <img src="cases/086/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1656,7 +1822,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@dotey](https://x.com/dotey/status/1918529055340576812)
 
-<img src="cases/087/google.png" width="400" alt="字母与单词含义融合">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/087/gpt4o.png" width="400"> | <img src="cases/087/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1672,7 +1840,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@dotey](https://x.com/dotey/status/1919522110395080838)
 
-<img src="cases/088/google.png" width="400" alt="儿童涂色页插画（含彩色参考图）">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/088/gpt4o.png" width="400"> | <img src="cases/088/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1690,7 +1860,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1919398870867440124)
 
-<img src="cases/089/google.png" width="400" alt="镀铬emoji徽章">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/089/gpt4o.png" width="400"> | <img src="cases/089/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1704,7 +1876,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1918291652210311278)
 
-<img src="cases/090/google.png" width="400" alt="品牌化键盘键帽">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/090/gpt4o.png" width="400"> | <img src="cases/090/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1718,7 +1892,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@umesh_ai](https://x.com/umesh_ai/status/1919701229363466328)
 
-<img src="cases/091/google.png" width="400" alt="谷歌地图变身古代藏宝图">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/091/gpt4o.png" width="400"> | <img src="cases/091/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1734,7 +1910,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
 
-<img src="cases/092/google.png" width="400" alt="透视3D出屏效果">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/092/gpt4o.png" width="400"> | <img src="cases/092/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1750,7 +1928,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@egeberkina](https://x.com/egeberkina/status/1920448389960909085)
 
-<img src="cases/093/google.png" width="400" alt="玻璃质感重塑">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/093/gpt4o.png" width="400"> | <img src="cases/093/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1798,7 +1978,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@berryxia_ai](https://x.com/berryxia_ai/status/1920795648946782583)
 
-<img src="cases/094/google.png" width="400" alt="三只动物与地标自拍">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/094/gpt4o.png" width="400"> | <img src="cases/094/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1812,7 +1994,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@thisdudelikesAI](https://x.com/thisdudelikesAI/status/1920433372243136730)
 
-<img src="cases/095/google.png" width="400" alt="自拍生成摇头娃娃">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/095/gpt4o.png" width="400"> | <img src="cases/095/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1828,7 +2012,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@dotey](https://x.com/dotey/status/1920851135516082246)
 
-<img src="cases/096/google.png" width="400" alt="定制动漫手办">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/096/gpt4o.png" width="400"> | <img src="cases/096/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1844,7 +2030,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
 
-<img src="cases/097/google.png" width="400" alt="可爱温馨针织玩偶">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/097/gpt4o.png" width="400"> | <img src="cases/097/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1860,7 +2048,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@umesh_ai](https://x.com/umesh_ai/status/1921487841634156999)
 
-<img src="cases/098/google.png" width="400" alt="磨砂玻璃后的虚实对比剪影">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/098/gpt4o.png" width="400"> | <img src="cases/098/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1874,7 +2064,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
 
-<img src="cases/099/google.png" width="400" alt="黑白肖像艺术">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/099/gpt4o.png" width="400"> | <img src="cases/099/google.jpg" width="400"> |
 
 **提示词**
 ```
@@ -1894,7 +2086,9 @@ retexture the image attached based on the json below:
 
 **作者**: [@azed_ai](https://x.com/azed_ai/status/1923016036120658122)
 
-<img src="cases/100/google.png" width="400" alt="实物与手绘涂鸦创意广告">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| <img src="cases/100/gpt4o.png" width="400"> | <img src="cases/100/google.jpg" width="400"> |
 
 **提示词**
 ```
