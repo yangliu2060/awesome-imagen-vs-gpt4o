@@ -127,7 +127,9 @@
 
 **作者**: [@balconychy](https://x.com/balconychy/status/1909417750587486469)
 
-<img src="cases/001/google.png" width="400" alt="Q版求婚场景">
+| GPT-4o | Google AI Studio |
+|:------:|:----------------:|
+| ![GPT-4o](cases/001/gpt4o.png) | ![Google](cases/001/google.png) |
 
 **提示词**
 ```
